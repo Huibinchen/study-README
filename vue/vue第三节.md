@@ -568,7 +568,7 @@ Vue.use(Router)
 let router = new Router({
 	// 5.做映射,什么样的地址,跳转到什么样的页面
 	routes:[
-		{
+		{	
           	// path:路径
 			path:'/',
           	// 跳转的组件
